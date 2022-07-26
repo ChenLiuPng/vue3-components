@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@liu-peng/components": "workspace:*",
+    "@liu-peng/theme-chalk": "workspace:*",
+    "@liu-peng/utils": "workspace:*",
+    "typescript": "^4.7.4",
+    "vue": "^3.2.37"
+  }
+}
